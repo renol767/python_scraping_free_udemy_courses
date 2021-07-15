@@ -1,0 +1,51 @@
+1626330524908	geckodriver	INFO	Listening on 127.0.0.1:65365
+1626330527944	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RENOLN~1\\AppData\\Local\\Temp\\rust_mozprofilefe6P0V"
+1626330528264	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Renol N\\AppData\\Local\\Temp\\rust_mozprofilefe6P0V\\search.json.mozlz4", (void 0)))
+1626330530284	Marionette	INFO	Listening on port 65377
+1626330530610	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626330549755	Marionette	INFO	Stopped listening on port 65377
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626331060757	geckodriver	INFO	Listening on 127.0.0.1:49323
+1626331063776	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RENOLN~1\\AppData\\Local\\Temp\\rust_mozprofile3JdYTp"
+1626331064117	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Renol N\\AppData\\Local\\Temp\\rust_mozprofile3JdYTp\\search.json.mozlz4", (void 0)))
+1626331066280	Marionette	INFO	Listening on port 49331
+1626331066438	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1626332771208	Marionette	INFO	Stopped listening on port 49331
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RENOLN~1\\AppData\\Local\\Temp\\rust_mozprofile0alu53"
+1626331960373	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Renol N\\AppData\\Local\\Temp\\rust_mozprofile0alu53\\search.json.mozlz4", (void 0)))
+1626331962399	Marionette	INFO	Listening on port 49876
+1626331962722	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626331981793	Marionette	INFO	Stopped listening on port 49876
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626332545058	geckodriver	INFO	Listening on 127.0.0.1:50255
+1626332548111	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RENOLN~1\\AppData\\Local\\Temp\\rust_mozprofileaCniI1"
+1626332548451	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Renol N\\AppData\\Local\\Temp\\rust_mozprofileaCniI1\\search.json.mozlz4", (void 0)))
+1626332550415	Marionette	INFO	Listening on port 50263
+1626332550765	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626332613292	Marionette	INFO	Stopped listening on port 50263
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
